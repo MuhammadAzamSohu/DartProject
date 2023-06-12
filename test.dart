@@ -9,7 +9,7 @@ var password=123;
 
 if(password!=123)
 {
-print("password incroorect please try again   ");
+print("password incroorect please try again      ");
 
 
 }
